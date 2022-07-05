@@ -1,3 +1,11 @@
-#
-passenger,Cessna 172,20,100,120000
-ufo,blurry,1000,1000000,250000
+#type,model,speed,range,price
+
+VanillaJet,Plain & Boring PBV-1,5547,3000,1500000
+CommercialJet,Boeing 767,559,6590,220300000
+CombatJet,F-35 Lightning II,1228,1700,398000000000
+CargoJet,C-5,528,3225,167700000,10000
+PrivateJet,Gulfstream G600,553,4050,57900000
+PrivateJet,Gulfstream G600,553,4050,57900000
+PrivateJet,GulfstreamXX G600,9981,4050,57900000
+PrivateJet,Gulfstream G600,553,4050,57900000
+PrivateJet,Gulfstream G600,100,1000,57900000
